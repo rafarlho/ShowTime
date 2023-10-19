@@ -40,7 +40,8 @@ function onWindowResize() {
 
 // Call onWindowResize initially to set the initial size
 onWindowResize();
-
+const Ambientlight = new THREE.AmbientLight( 0x707070 ); // soft white light
+scene.add( Ambientlight )
 //####################### Textures #######################
 //Welcome Image 
 const textureLoader = new THREE.TextureLoader();
