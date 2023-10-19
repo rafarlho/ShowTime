@@ -8,4 +8,4 @@ The whole project was developed using a HTML page as canvas and JavaScript for e
 
 The project contains sound and visual interaction, and you can assl move your camera moving the mouse while pressing the left mouse button!
 
-To run on your side, download and open the index.html file with VSCode live server.  
+To run on your side, download and open the index.html file with VSCode live server or just acces the rafarlho.github.io/ShowTime.  
